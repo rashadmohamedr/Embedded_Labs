@@ -1,0 +1,8 @@
+
+16F887 Memory Summary:
+    Program space        used   BFCh (  3068) of  2000h words   ( 37.5%)
+    Data space           used    8Dh (   141) of   170h bytes   ( 38.3%)
+    EEPROM space         used     0h (     0) of   100h bytes   (  0.0%)
+    Configuration bits   used     0h (     0) of     2h words   (  0.0%)
+    ID Location space    used     0h (     0) of     4h bytes   (  0.0%)
+
