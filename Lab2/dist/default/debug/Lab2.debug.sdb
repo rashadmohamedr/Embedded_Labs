@@ -1,0 +1,57 @@
+[p GLOBOPT AUTOSTATIC IEEE_DBL IEEE_FLT PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F887 ]
+[d frameptr 0 ]
+"5 /Applications/microchip/xc8/v3.00/pic/sources/c99/common/awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"5 /Applications/microchip/xc8/v3.00/pic/sources/c99/common/awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"10 /Applications/microchip/xc8/v3.00/pic/sources/c99/common/sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"4 /Applications/microchip/xc8/v3.00/pic/sources/c99/common/Umul8_16.c
+[v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
+"6 /Applications/microchip/xc8/v3.00/pic/sources/c99/pic/__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"54 /Users/a/CIE Second/Spring/CIE 408 - embedded systems/Lab/Lab2/main.c
+[v _main main `(v  1 e 1 0 ]
+"83
+[v _ISR ISR `II(v  1 e 1 0 ]
+"228 /Applications/microchip/mplabx/v6.20/packs/Microchip/PIC16Fxxx_DFP/1.6.156/xc8/pic/include/proc/pic16f887.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"290
+[v _PORTC PORTC `VEuc  1 e 1 @7 ]
+"352
+[v _PORTD PORTD `VEuc  1 e 1 @8 ]
+"459
+[v _INTCON INTCON `VEuc  1 e 1 @11 ]
+"1478
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"1540
+[v _TRISC TRISC `VEuc  1 e 1 @135 ]
+"1602
+[v _TRISD TRISD `VEuc  1 e 1 @136 ]
+"3387
+[v _ANSEL ANSEL `VEuc  1 e 1 @392 ]
+"3449
+[v _ANSELH ANSELH `VEuc  1 e 1 @393 ]
+"3936
+[v _IOCB0 IOCB0 `VEb  1 e 0 @1200 ]
+"3939
+[v _IOCB1 IOCB1 `VEb  1 e 0 @1201 ]
+"23 /Users/a/CIE Second/Spring/CIE 408 - embedded systems/Lab/Lab2/main.c
+[v _segment_map segment_map `DC[10]uc  1 e 10 0 ]
+"54
+[v _main main `(v  1 e 1 0 ]
+{
+"72
+[v main@i i `uc  1 a 1 6 ]
+"81
+} 0
+"83
+[v _ISR ISR `II(v  1 e 1 0 ]
+{
+"91
+} 0
